@@ -1,0 +1,22 @@
+##########################################
+# Syntax Coloring Map For AndroidAccessory
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+AndroidAccessory	KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+powerOn	KEYWORD2
+isConnected	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
